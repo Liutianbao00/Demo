@@ -4,6 +4,7 @@ package com.demo.common.entity;
 public class ResponseBean {
     private int code;
     private String message;
+    private String a;
     private Object data;
 
     public ResponseBean() {
